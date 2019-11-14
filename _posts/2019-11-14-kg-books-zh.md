@@ -1,4 +1,15 @@
-## 知识图谱中文图书
+---
+layout:     post
+title:      "知识图谱中文书单"
+subtitle:   "书籍速递"
+date:       2019-11-14 20:18:00
+author:     "Bertram"
+header-img: "img/post-bg-2015.jpg"
+tags:
+    - KG
+---
+
+## 知识图谱中文图书推荐
 
 * 《知识图谱》赵军 高等教育出版社 2018-12
 
